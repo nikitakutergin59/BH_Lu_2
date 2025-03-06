@@ -48,6 +48,8 @@ Win + R
 #Взаимодействие
 Что бы задать задачу
 Пример
-curl -X POST -H "Content-Type: application/json" -d "{\"expression\": \"2 + 3 * 4\"}" http://localhost:8080/calculate
 
+```bash
+curl -X POST -H "Content-Type: application/json" -d "{\"expression\": \"2 + 3 * 4\"}" http://localhost:8080/calculate
+```
     
