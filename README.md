@@ -28,7 +28,7 @@ Win + R
     ```
 4. Перейдите в директорию с Omain.go
 ```bash
-  cd BH_Lu_2/BH_Lu/bak/cmd/runOrchestrator
+  cd BH_Lu_2/BH_Lu/cmd/runOrchestrator
 ```
 5. Запустить оркестратор
 ```bash
@@ -38,7 +38,7 @@ Win + R
 Win + R
 7. Перейдите в директорию с Dmain.go
 ```bash
- cd BH_Lu_2/BH_Lu/bak/cmd/runDemon
+ cd BH_Lu_2/BH_Lu/cmd/runDemon
 ```
 8. Запустите агента
 ```bash
