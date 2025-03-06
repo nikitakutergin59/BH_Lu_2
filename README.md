@@ -14,7 +14,7 @@
 2. Откройте консоль
 3. Склонируйте проек с GitHub
     ```bash
-    git clone https://github.com/nikitakutergin59/BH_Lu_2
+    git clone https://github.com/nikitakutergin59/BH_Lu
     ```
 4. Перейдите в папку cmd 
 
