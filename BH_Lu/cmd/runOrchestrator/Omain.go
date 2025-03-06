@@ -84,5 +84,5 @@ func main() {
 	})
 
 	log.Printf("Сервер запущен на порту 8080") // Используем log.Printf
-	log.Fatal(http.ListenAndServe("0.0.0.0:8080", r))
+	log.Fatal(http.ListenAndServe(":8080", r))
 }
