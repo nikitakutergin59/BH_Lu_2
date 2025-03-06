@@ -24,7 +24,7 @@
 Win + R
 3. Склонируйте проек с GitHub
     ```bash
-    git clone https://github.com/nikitakutergin59/BH_Lu
+    git clone https://github.com/nikitakutergin59/BH_Lu_2
     ```
 4. Перейдите в директорию с Omain.go
 ```bash
