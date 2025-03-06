@@ -54,7 +54,6 @@ Win + R
 ```bash
 curl -X POST -H "Content-Type: application/json" -d "{\"expression\": \"2 + 3 * 4\"}" http://localhost:8080/calculate
 ```
-вы получите результат
 
 Что бы запросить список всех задач
 
